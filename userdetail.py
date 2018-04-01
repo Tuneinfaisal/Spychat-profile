@@ -1,3 +1,3 @@
-username = 'MR.Faisal'
-userage = 19
-userrating =7
+spy_name='Mr. Faisal'
+spy_age=19
+spy_rating=5
